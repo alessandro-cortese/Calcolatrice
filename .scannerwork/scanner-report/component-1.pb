@@ -1,0 +1,1 @@
+Calcolatrice :B51https://github.com/alessandrocortese/CalcolatriceB84https://travis-ci.org/alessandrocortese/CalcolatriceB<8https://github.com/alessandrocortese/Calcolatrice/issuesB51https://github.com/alessandrocortese/CalcolatriceRalessandro-cortese_Calcolatrice
