@@ -6,7 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="68d8e67a-b3c8-440f-b321-3614856ab2de" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/calcolatrice/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/calcolatrice/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.scannerwork/report-task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.scannerwork/report-task.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.scannerwork/scanner-report/analysis-warnings.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.scannerwork/scanner-report/analysis-warnings.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.scannerwork/scanner-report/analytics.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.scannerwork/scanner-report/analytics.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.scannerwork/scanner-report/metadata.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.scannerwork/scanner-report/metadata.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.scannerwork/scanner-report/telemetry.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.scannerwork/scanner-report/telemetry.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +65,8 @@
       <workItem from="1638636265075" duration="49000" />
       <workItem from="1638638464854" duration="32000" />
       <workItem from="1638642144129" duration="142000" />
+      <workItem from="1638642727021" duration="34000" />
+      <workItem from="1638642996309" duration="106000" />
     </task>
     <servers />
   </component>
